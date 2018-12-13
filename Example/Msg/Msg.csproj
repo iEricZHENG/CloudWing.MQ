@@ -9,6 +9,6 @@
     <StartupObject />
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CloudWing.MQ\CloudWing.MQ.csproj" />
+    <ProjectReference Include="..\..\CloudWing.MQ\CloudWing.MQ.csproj" />
   </ItemGroup>
 </Project>
